@@ -1,7 +1,7 @@
 ﻿{
   "name": "HỆ THỐNG NỘI BỘ",
   "short_name": "HỆ THỐNG NỘI BỘ",
-  "description": "ỨNG DỤNG TRIỂN KHAI-THEO DÕI NỘI BỘ",
+  "description": "ỨNG DỤNG TRIỂN KHAI - THEO DÕI NỘI BỘ",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
