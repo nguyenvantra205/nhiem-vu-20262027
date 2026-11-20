@@ -1,7 +1,7 @@
 ﻿{
   "name": "HỆ THỐNG NỘI BỘ",
   "short_name": "HỆ THỐNG NỘI BỘ",
-  "description": "TRIỂN KHAI NHIỆM VỤ - THEO DÕI",
+  "description": "ỨNG DỤNG TRIỂN KHAI NHIỆM VỤ - THEO DÕI",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
