@@ -1,7 +1,7 @@
 ﻿{
-  "name": "Sổ Liên Lạc Điện Tử",
-  "short_name": "Sổ Liên Lạc",
-  "description": "Ứng dụng theo dõi học tập và điểm danh",
+  "name": "HỆ THỐNG NỘI BỘ",
+  "short_name": "HỆ THỐNG NỘI BỘ",
+  "description": "TRIỂN KHAI NHIỆM VỤ - THEO DÕI",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
